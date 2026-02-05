@@ -28,3 +28,7 @@ This repository focuses on automation, scripting, and productivity tools.
 ```bash
 git clone https://github.com/your-username/python-automation-scripts.git
 cd python-automation-scripts
+```
+
+## 🧾 Product Planning Docs
+- `POSTRA_PRODUCT_SCOPE.md`: phased product scope for Postra (MVP + later roadmap).
